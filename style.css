@@ -1,0 +1,21 @@
+.main-content {
+	margin-top: 75px;
+}
+
+.post-container {
+	margin-bottom: 75px;
+}
+
+.post-title {
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+
+.post-content {
+
+}
+
+.post-date {
+	font-size: 12px
+}
