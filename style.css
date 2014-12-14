@@ -19,3 +19,35 @@
 .post-date {
 	font-size: 12px
 }
+
+.photo-container {
+	width: 215px;
+}
+
+.photo-container img {
+	width: 100%;
+	height: auto;
+}
+
+.sidebar {
+	float: right;
+	margin-right: 25px;
+}
+
+.sidebar-text {
+	margin-top: 15px;
+}
+
+.sidebar-text ul {
+	list-style-type: none;
+	padding: 0;
+	text-align: right;
+}
+
+#older-posts-link {
+	float: right;
+}
+
+#newer-posts-link {
+	float: left;
+}
